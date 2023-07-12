@@ -52,7 +52,9 @@ Buatlah model Linear Regression untuk memprediksi **`actual_productivity`** kary
 
 2. Top level management meminta anda untuk memberikan data rata-rata waktu `over_time` setiap bulan, rata-rata `actual_productivity` setiap bulan dan rata-rata `targeted_productivity` setiap bulan untuk menjawab pertanyaan sebagai berikut :
    a) bulan apa rata-rata waktu `over_time` paling tinggi?
+   
    b) apabila waktu rata-rata `over_time` di konversi menjadi hari, berapa hari `over_time` di bulan pertama, kedua dan ketiga?
+
    c) berikan analisa anda apakah `over_time` yang diberikan perusahaan mampu menaikan `actual_productivity` dengan signifikan?
 
 ---
