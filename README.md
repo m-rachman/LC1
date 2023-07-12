@@ -18,8 +18,6 @@
 
 ## Dataset Desciription
 
-Dataset : `car-price-prediction.csv`
-
 Description : anda adalah Data Scienties disebuah perusahaan Garment. Industri Pakaian adalah salah satu contoh kunci dari globalisasi industri era modern ini. Ini adalah industri yang sangat padat karya dengan banyak proses manual. Memenuhi permintaan global yang besar untuk produk pakaian sebagian besar bergantung pada kinerja produksi dan pengiriman karyawan di perusahaan manufaktur pakaian. Oleh karena itu, sangat diinginkan bagi para pengambil keputusan di industri pakaian untuk melacak, menganalisis, dan memprediksi kinerja produktivitas tim kerja di pabrik mereka.
 
 | Column | Description |
