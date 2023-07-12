@@ -43,7 +43,7 @@ Description : anda adalah Data Scienties disebuah perusahaan Garment. Industri P
 
 ## Problems
 
-Buatlah model Linear Regression untuk memprediksi produktifitas karyawan menggunakan dataset yang disediakan. Dataset terlampir pada repository dan jawablah pertanyaan dibawah ini.
+Buatlah model Linear Regression untuk memprediksi **`actual_productivity`** karyawan menggunakan dataset yang disediakan. Dataset terlampir pada repository dan jawablah pertanyaan dibawah ini.
 
 ***Note : Anda diwajibkan untuk menjawab pertanyaan-pertanyaan dibawah ini. Namun, Anda juga dipersilakan untuk melakukan Exploratory Data Analysis (EDA) dan analisa model lainnya pada bagian Model Evaluation diluar pertanyaan yang diminta.***
 
@@ -54,20 +54,6 @@ Buatlah model Linear Regression untuk memprediksi produktifitas karyawan menggun
    a) bulan apa rata-rata waktu `over_time` paling tinggi?
    b) apabila waktu rata-rata `over_time` di konversi menjadi hari, berapa hari `over_time` di bulan pertama, kedua dan ketiga?
    c) berikan analisa anda apakah `over_time` yang diberikan perusahaan mampu menaikan `actual_productivity` dengan signifikan?
-
-### Lakukan pada bagian Model Analysis
-1. Analisa hasil prediksi dengan langkah-langkah dibawah ini : 
-   1. Lakukan prediksi pada test-set. 
-   
-   2. Dari keseluruhan test-set yang diprediksi, berapa nilai minimum dan nilai maksimum yang diprediksi oleh model. 
-   
-   3. Bandingkan nilai minimum dan nilai maksimum dari keseluruhan hasil prediksi dengan nilai minimum dan nilai maksimum yang sebenarnya dari keseluruhan test-set.
-   
-   4. Analisa dan narasikan hasil ini.
- 
-2. Apakah model Anda cenderung menghasilkan harga prediksi yang lebih rendah ataukah cenderung menghasilkan harga prediksi yang lebih tinggi dari harga sebenarnya baik dari train-set maupun test-set ? Buktikan hal ini dengan sebuah eksplorasi.
-
-3. Apa kelebihan dan kelemahan model yang Anda buat untuk kasus ini ?
 
 ---
 
